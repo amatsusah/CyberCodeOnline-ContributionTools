@@ -1,5 +1,5 @@
 # Cyber Code Online Submission Automation Tool
-We as the CCO Community are going to make an automation tool to help reduce the workload for our hardworking volunteer mods and making it ieasier for people to contribute content to CCO. By having a UI for submissions it makes it simple for people to submit new contributions and automatically format it. Automatic github integrations also make everyone's life easier.
+We as the CCO Community are going to make an automation tool to help reduce the workload for our hardworking volunteer mods and making it easier for people to contribute content to CCO. By having a UI for submissions it makes it simple for people to submit new contributions and automatically format it. Automatic github integrations also make everyone's life easier.
 ## Pending Tasks : 
 	1. Main Menu
 	2. Dungeon editor page
